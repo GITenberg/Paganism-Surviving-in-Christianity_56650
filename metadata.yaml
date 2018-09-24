@@ -1,11 +1,16 @@
 _repo: Paganism-Surviving-in-Christianity_56650
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56650-h/images/cover.jpg
 creator:
   author:
     agent_name: Lewis, Abram Herbert
     gutenberg_agent_id: '48970'
     url: http://www.gutenberg.org/2009/agents/48970
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56650#Paganism-Surviving-in-Christianity
 gutenberg_issued: '2018-02-26'
 gutenberg_type: Text
 identifiers:
